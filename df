@@ -1,8 +1,0 @@
-[33mcommit f011285687181e52b15fbc4af9c52e64ffab8e7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: Simon Vandekar <simon.vandekar@gmail.com>
-Date:   Mon Sep 23 11:32:10 2024 -0500
-
-    Added Kaidi's supplemental ROI figures.
-
-index.html
-partial_regression_roi.html
